@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "benji.vegetables.mixin",
+	"package": "benji.vegetable.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

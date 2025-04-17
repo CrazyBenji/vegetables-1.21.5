@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"benji.vegetables.Vegetables"
+          "benji.vegetables.Vegetable"
 		],
 		"fabric-datagen": [
-			"benji.vegetables.VegetablesDataGenerator"
+			"benji.vegetables.VegetableDataGenerator"
 		]
 	},
 	"mixins": [

@@ -1,4 +1,4 @@
-package benji.vegetables.mixin;
+package benji.vegetable.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

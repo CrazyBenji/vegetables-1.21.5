@@ -1,12 +1,12 @@
-package benji.vegetables;
+package benji.vegetable;
 
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Vegetables implements ModInitializer {
-	public static final String MOD_ID = "vegetables";
+public class Vegetable implements ModInitializer {
+	public static final String MOD_ID = "vegetable";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.

@@ -1,9 +1,9 @@
-package benji.vegetables;
+package benji.vegetable;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 
-public class VegetablesDataGenerator implements DataGeneratorEntrypoint {
+public class VegetableDataGenerator implements DataGeneratorEntrypoint {
 	@Override
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 
